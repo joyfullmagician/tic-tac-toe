@@ -10,7 +10,7 @@
 1. The game is played on a grid that is 3 squares by 3 squares
 2. You are X, your friend is O. Players take turns putting their marks in empty squares
 3. The first player to get 3 of their marks in a row (up, down, across, or diagonally) is the winner
-4. When all 9 squares are full, the game is over
+4. When all 9 squares are full, the game is over 5 years.
 
 ## Getting Started with Create React App
 
